@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 subtitle: What is this and why??
 permalink: /about/
 date: 2020-10-10T17:39:25.108Z
