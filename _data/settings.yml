@@ -6,7 +6,7 @@ header_text: How the brand Lazy Oaf presents itself via typography in relation
 footer_text: Copyright 2020 Annabelle Coleman
 header_feature_image: ../uploads/dualbackground.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/logo-idea-1.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: true
