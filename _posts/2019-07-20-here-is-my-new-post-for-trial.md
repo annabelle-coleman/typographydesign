@@ -6,44 +6,14 @@ header_feature_image: ../uploads/blueheader.png
 caption: ""
 comments: false
 ---
+**When it comes to logos, Lazy Oaf created theirs very precisely. While there are multiple iterations of the logo (see pictures below), they all carry the same intended message- as well as mostly being accompanied by their signature eyes. In stark contrast to the nature of their products, the logo contains no colour and is very uniform and clear. The most the logo strays from its uniformity is when it is presented in circular form, making it seem a little softer than when simply lined.**
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+![Image credit: Lazy Oaf](../uploads/lologos1.png)
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
-
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+This clarity and uniformity is chosen specifically to contrast with the products so as not to take away from them and emphasise their individuality and use of bright colours in said products. Where Lazy Oaf are a very laid back brand, they make it extremely clear in their brand book that the logo must always be black and white- easy to read and clearly stands out among their colourful designs. Of course the colour of and around text is a very big contender in regard to how it is interpreted by whomever is reading it but I shall touch on that in a later post, for now I will focus on font and typeface.
 
 
-![Here is a book](../uploads/pages.jpg)
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+The primary font used for the Lazy Oaf logo has been identified online (thank god for reddit) as Futura. This font is sans serif and therefore has a more modern and legible appearance with this clarity being very much aided by the fact that the text is in all capitals and bold- this also gives it more impact. A key factor in the use of sans serif fonts is the fact that they are considered more modern and clear because they were only first seen in the early 20th century. Due to their relatively late development they have come to be associated with a much less pretentious atmosphere; something that certainly reflects the core values of the Lazy Oaf brand- such as striving to maintain a “more personal” relationship with their consumer.
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
-
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
-
-![Wooden Type](../uploads/log.jpg)
-
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
-
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+This very clean and geometric font is sometimes softened with the use of a wiggly underline when at the top of the product browsing pages. While this adds some clashing softness to the text, the name retains its strong modern and independent identity.
