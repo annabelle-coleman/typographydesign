@@ -1,12 +1,11 @@
 title: AESTHETIC TYPOGRAPHY
 description: How the brand Lazy Oaf presents itself via typography in relation
   to its aesthetic and identity.
-header_text: How the brand Lazy Oaf presents itself via typography in relation
-  to its aesthetic and identity.
+header_text: ""
 footer_text: Copyright 2020 Annabelle Coleman
-header_feature_image: ../uploads/dualbackground.jpg
+header_feature_image: ../uploads/dualbackground-1-.jpg
 bannerheight: 20vmax
-logo: ../uploads/logo-idea-1.png
+logo: ../uploads/logo.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: true
