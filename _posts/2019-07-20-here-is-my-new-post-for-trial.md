@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LOGOS
+title: Let's Talk Logos
 date: 2020-06-24 17:50
 header_feature_image: ../uploads/blueheader.png
 caption: ""
