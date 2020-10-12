@@ -4,7 +4,7 @@ title: ABOUT
 subtitle: What is this and why??
 permalink: /about/
 date: 2020-10-10T17:39:25.108Z
-header_feature_image: ../uploads/lilacbackground.png
+header_feature_image: ../uploads/purpleheader.png
 published: true
 tags: null
 description: null
