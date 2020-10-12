@@ -2,7 +2,7 @@
 layout: post
 title: LOGOS
 date: 2020-06-24 17:50
-header_feature_image: ../uploads/bluebackground.jpg
+header_feature_image: ../uploads/blueheader.png
 caption: ""
 comments: false
 ---
