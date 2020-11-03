@@ -10,4 +10,7 @@ favicon: ../uploads/logo.png
 gridlayout: false
 fixednavbar: true
 upzoom: true
-items: []
+items:
+  - name: About the Site Author
+    tab: true
+    siteurl: /aboutme
