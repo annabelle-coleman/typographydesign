@@ -15,12 +15,12 @@ In terms of fitting into a specific aesthetic, Lazy Oaf designs are very flexibl
 
 Once again, their collections reflect their aim to appeal to a more alternative customer. For example, the aforementioned Rebel Girl collection (which is very reminiscent of 90s grunge) and their collaboration with creepy comedy YouTube series “Don’t Hug Me I’m Scared”.
 
-![](../uploads/dont-hug-me-im-scared.jpg)
+![image credit: Lazy Oaf](../uploads/dont-hug-me-im-scared.jpg)
 
 Not only do some of their special collections appeal to these styles, but their designs do too. This is mostly through the juxtaposing aspects of font, colour and content.
 
 Almost all of the time the clothing designs that feature slogans stick to the tone of cutesy colours/silhouettes but explicit and somewhat depressing slogans. It is this irony and juxtaposition that appeal to the kinderwhore, pastel goth and nu goth aesthetics. Although sometimes their slogan clothing is simply grunge in its tone, for example the “I hate everybody” knitted cardigan- which is pictured below.
 
-![](../uploads/aestheticscomp.png)
+![image credit: Lazy Oaf](../uploads/aestheticscomp.png)
 
 Use of bright, pastel colours but script fonts, such as the one used on their “problem child” cardigan and “go away” t-shirt (pictured above),  to juxtapose. More specifically, they use formal script typefaces which are reminiscent of calligraphy and have an elegant feel about them. Not only do script fonts have a sense of elegance, they also often have connotations of creativity and childishness. When paired with the words “problem child” and “go away” they are undoubtedly kinderwhore in essence.
